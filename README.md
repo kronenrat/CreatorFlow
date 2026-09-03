@@ -5,7 +5,17 @@
 **CreatorFlow** is a modular creator automation platform built with Python that combines Discord community management with AI-powered creator workflows.
 
 > **Less repetitive work. More time for creating.**
+<br>
 
+<p align="center">
+  <img src="docs/screenshots/01_creatorflow_overview.png" alt="CreatorFlow Automation Platform" width="720">
+</p>
+
+<p align="center">
+  <strong>Discord Community Automation + AI Creator Workflows</strong>
+</p>
+
+<br>
 CreatorFlow demonstrates how Discord automation, persistent data, APIs, and AI can be connected into one practical system for creators and online communities.
 
 ---
@@ -184,12 +194,67 @@ CreatorFlow includes a dedicated Discord showcase environment where the automati
 
 ---
 
-## 📸 Screenshots
 
-Portfolio screenshots are stored in:
+Diesen Abschnitt löschen wir komplett.
 
-```text
-docs/screenshots/
+Stattdessen:
+
+```markdown
+## 📸 CreatorFlow in Action
+
+### 🚀 Automation Platform
+
+CreatorFlow combines Discord community automation with AI-powered creator workflows.
+
+![CreatorFlow Overview](docs/screenshots/01_creatorflow_overview.png)
+
+---
+
+### 🧠 Persistent Creator Profiles
+
+Creators configure their platform, niche, tone and publishing frequency. CreatorFlow stores this configuration and uses it throughout the automation workflow.
+
+![CreatorFlow Creator Profile](docs/screenshots/02_creator_profile.png)
+
+---
+
+### 🤖 AI Content Planning
+
+CreatorFlow uses the stored creator profile to generate personalized content strategies, including hooks, content ideas, captions and calls to action.
+
+![CreatorFlow AI Content Plan](docs/screenshots/03_ai_content_plan.png)
+
+---
+
+### ⚙️ Live Automation Lab
+
+The demo server provides a live environment for testing CreatorFlow's community and creator automation systems.
+
+![CreatorFlow Automation Lab](docs/screenshots/04_automation_lab.png)
+
+---
+
+### 🎫 Automated Support Tickets
+
+Members can create private support channels with automated permissions and a complete close-ticket workflow.
+
+![CreatorFlow Ticket System](docs/screenshots/05_ticket_system.png)
+
+---
+
+### 🔊 Dynamic AutoVoice
+
+Joining the Create Voice channel automatically creates a personal voice room and moves the user into it.
+
+![CreatorFlow AutoVoice](docs/screenshots/06_autovoice.png)
+
+---
+
+### 👋 Smart Welcome
+
+CreatorFlow provides automated onboarding, welcome messages and community role workflows for new members.
+
+![CreatorFlow Smart Welcome](docs/screenshots/07_smart_welcome.png)
 ```
 
 ---
