@@ -261,10 +261,22 @@ CreatorFlow provides automated onboarding, welcome messages, and community role 
 
 ## 🎬 Product Demo
 
-A full CreatorFlow product demonstration has been produced in **1080p60**.
+A full **1080p60 CreatorFlow product demonstration** is available with the current Alpha release.
 
-The public demo link will be added here after the GitHub release is published.
+The demo shows CreatorFlow running in a live Discord environment, including:
 
+- Creator profile configuration
+- AI-powered content planning
+- Automated support tickets
+- Dynamic AutoVoice
+- Smart Welcome
+- Community automation workflows
+
+### ▶️ Watch the Product Demo
+
+[**Open CreatorFlow Alpha Demo →**](https://github.com/kronenrat/CreatorFlow/releases/tag/v0.3.2-alpha)
+
+The full 1080p60 video is available under the release assets.
 ---
 
 ## ⚙️ Installation
