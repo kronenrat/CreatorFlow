@@ -5,6 +5,7 @@
 **CreatorFlow** is a modular creator automation platform built with Python that combines Discord community management with AI-powered creator workflows.
 
 > **Less repetitive work. More time for creating.**
+
 <br>
 
 <p align="center">
@@ -16,6 +17,7 @@
 </p>
 
 <br>
+
 CreatorFlow demonstrates how Discord automation, persistent data, APIs, and AI can be connected into one practical system for creators and online communities.
 
 ---
@@ -23,6 +25,7 @@ CreatorFlow demonstrates how Discord automation, persistent data, APIs, and AI c
 ## ✨ Features
 
 ### 🤖 Community Automation
+
 - Automated Discord server setup
 - Button-based ticket system with private support channels
 - Smart welcome workflows
@@ -32,6 +35,7 @@ CreatorFlow demonstrates how Discord automation, persistent data, APIs, and AI c
 - Slash-command based management
 
 ### 🧠 Creator Intelligence
+
 - Persistent creator profiles
 - Platform, niche, tone, and content-frequency settings
 - AI-generated weekly content strategies
@@ -39,6 +43,7 @@ CreatorFlow demonstrates how Discord automation, persistent data, APIs, and AI c
 - Local fallback content planning when the external AI service is unavailable
 
 ### 🗄️ Persistent Data
+
 CreatorFlow uses SQLite to persist creator profiles and automation state, allowing workflows to use stored creator information instead of treating every command as an isolated request.
 
 ---
@@ -113,6 +118,7 @@ Channel Automatically Deleted
 ## 👋 Smart Welcome
 
 New community members can automatically receive:
+
 - Personalized welcome messages
 - Community access information
 - Community roles
@@ -184,6 +190,7 @@ flowchart TD
 ## 🚀 Demo Environment
 
 CreatorFlow includes a dedicated Discord showcase environment where the automation systems can be tested directly, including:
+
 - Community automation overview
 - Creator Intelligence
 - AI content planning
@@ -194,12 +201,6 @@ CreatorFlow includes a dedicated Discord showcase environment where the automati
 
 ---
 
-
-Diesen Abschnitt löschen wir komplett.
-
-Stattdessen:
-
-```markdown
 ## 📸 CreatorFlow in Action
 
 ### 🚀 Automation Platform
@@ -212,7 +213,7 @@ CreatorFlow combines Discord community automation with AI-powered creator workfl
 
 ### 🧠 Persistent Creator Profiles
 
-Creators configure their platform, niche, tone and publishing frequency. CreatorFlow stores this configuration and uses it throughout the automation workflow.
+Creators configure their platform, niche, tone, and publishing frequency. CreatorFlow stores this configuration and uses it throughout the automation workflow.
 
 ![CreatorFlow Creator Profile](docs/screenshots/02_creator_profile.png)
 
@@ -220,7 +221,7 @@ Creators configure their platform, niche, tone and publishing frequency. Creator
 
 ### 🤖 AI Content Planning
 
-CreatorFlow uses the stored creator profile to generate personalized content strategies, including hooks, content ideas, captions and calls to action.
+CreatorFlow uses the stored creator profile to generate personalized content strategies, including hooks, content ideas, captions, and calls to action.
 
 ![CreatorFlow AI Content Plan](docs/screenshots/03_ai_content_plan.png)
 
@@ -252,18 +253,17 @@ Joining the Create Voice channel automatically creates a personal voice room and
 
 ### 👋 Smart Welcome
 
-CreatorFlow provides automated onboarding, welcome messages and community role workflows for new members.
+CreatorFlow provides automated onboarding, welcome messages, and community role workflows for new members.
 
 ![CreatorFlow Smart Welcome](docs/screenshots/07_smart_welcome.png)
-```
 
 ---
 
 ## 🎬 Product Demo
 
-A full CreatorFlow product demonstration has been produced in 1080p60.
+A full CreatorFlow product demonstration has been produced in **1080p60**.
 
-The public demo link will be added here.
+The public demo link will be added here after the GitHub release is published.
 
 ---
 
@@ -272,7 +272,7 @@ The public demo link will be added here.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/kronenrat/CreatorFlow.git
 cd CreatorFlow
 ```
 
@@ -324,6 +324,7 @@ Secrets are never stored directly in the public source code. Runtime and private
 **CreatorFlow Alpha**
 
 Current milestone:
+
 - ✅ Core architecture
 - ✅ Discord server automation
 - ✅ Ticket automation
@@ -345,6 +346,7 @@ Future development may include analytics, scheduled creator workflows, additiona
 FlowForge builds practical automation systems for creators, online communities, and small businesses.
 
 Focus areas:
+
 - Discord automation
 - Python development
 - AI workflows
