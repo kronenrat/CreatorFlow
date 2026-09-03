@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Discord Community Automation + AI Creator Workflows</strong>
+  <strong>CreatorFlow Alpha • Built by FlowForge</strong>
 </p>
 
 <br>
@@ -277,6 +277,7 @@ The demo shows CreatorFlow running in a live Discord environment, including:
 [**Open CreatorFlow Alpha Demo →**](https://github.com/kronenrat/CreatorFlow/releases/tag/v0.3.2-alpha)
 
 The full 1080p60 video is available under the release assets.
+
 ---
 
 ## ⚙️ Installation
